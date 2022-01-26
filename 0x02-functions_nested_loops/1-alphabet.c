@@ -6,8 +6,8 @@
 */
 int main(void)
 {
-for (int c = 97; c <= 122; ++c)
-printf("%c ", c);
-printf("\n");
+char ch = 'a';
+for (ch = 'a'; ch <= 'z'; ch++)
+putchar(ch);
 return (0);
 }
