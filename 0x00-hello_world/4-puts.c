@@ -1,6 +1,4 @@
 #include <stdio.h>
-
-
 /**
  * main - The starting point for the script
  *
