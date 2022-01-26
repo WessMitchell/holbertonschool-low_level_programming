@@ -10,5 +10,5 @@ printf("Size of int: %ld byte(s)\n", sizeof(int));
 printf("Size of float: %ld byte(s)\n", sizeof(float));
 printf("Size of double: %ld byte(s)\n", sizeof(double));
 printf("Size of char: %ld byte(s)\n", sizeof(char));
-return(0);
+return (0);
 }
