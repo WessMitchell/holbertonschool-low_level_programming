@@ -1,14 +1,11 @@
 #include<stdio.h>
 /**
 *main - prints various sizes and types
+*
 *Return: 0 if successful
 */
 int main(void)
 {
-int;
-float;
-double;
-char;
 printf("Size of int: %d byte(s)\n", sizeof(int));
 printf("Size of float: %d byte(s)\n", sizeof(float));
 printf("Size of double: %d byte(s)\n", sizeof(double));
