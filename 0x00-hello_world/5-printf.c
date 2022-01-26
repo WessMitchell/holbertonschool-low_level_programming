@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
 *main - prints the below statement
-*Return (0) -  responds with 0 if successful
+*Return: (0) -  responds with 0 if successful
 */
 int main(void)
 {
